@@ -179,12 +179,10 @@ sales_forecast_project/
 ### Product Analysis
 
 - Top 10 Products
-- Product Contribution %
 
 ### Customer Analysis
 
 - Top Customers
-- Customer Purchase Behavior
 
 ### Geographic Analysis
 
@@ -198,17 +196,13 @@ sales_forecast_project/
 ## 1. Clone Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/MariamAboelfadl/sales_forecast_project
 cd sales_forecast_project
 ```
 
 ## 2. Install Dependencies
 
-```bash
-pip install -r requirements.txt
-```
 
-or
 
 ```bash
 pip install pandas numpy great_expectations pyarrow openpyxl
@@ -258,23 +252,23 @@ Refresh the model and explore the dashboard.
 
 # 📊 Dashboard Features
 
-✅ Sales comparison between 2008 and 2009
+ Sales comparison between 2008 and 2009
 
-✅ Forecast vs Actual Analysis
+ Forecast vs Actual Analysis
 
-✅ Top Products Analysis
+ Top Products Analysis
 
-✅ Top Customer Analysis
+ Top Customer Analysis
 
-✅ Sales Trend by Month
+ Sales Trend by Month
 
-✅ Geographic Filters
+ Geographic Filters
 
-✅ Drill-down Capability
+ Drill-down Capability
 
 ---
 
-# 🚀 Future Enhancements
+# Future Enhancements
 
 - Automate pipeline scheduling using Airflow.
 - Store processed data in a cloud data warehouse.
