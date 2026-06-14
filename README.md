@@ -53,7 +53,7 @@ Apply business rules and cleansing:
 
 ## 4️⃣ Data Modeling
 
-Build a Star Schema data warehouse model.
+Build Galaxy Schema data warehouse model.
 
 ### Dimension Tables
 
