@@ -104,15 +104,14 @@ flowchart TD
 
 A[JSON Files] --> B[Extract]
 
-B --> C[Data Profiling]
+B -->C[Data Transformation]
 
-C --> D[Data Transformation]
+C --> D[Data Modeling]
 
-D --> E[Data Modeling]
+D --> E[Data Validation]
 
-E --> F[Data Validation]
+E --> F[Power BI Dashboard]
 
-F --> G[Power BI Dashboard]
 ```
 
 ---
