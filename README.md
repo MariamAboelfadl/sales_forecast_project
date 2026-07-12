@@ -27,18 +27,6 @@ The final solution enables sales teams to analyze historical sales, compare actu
 
 ---
 
-## 2️⃣ Data Profiling
-
-Perform exploratory analysis and quality assessment:
-
-- Row and column counts.
-- Missing values detection.
-- Data type validation.
-- Duplicate checks.
-- Statistical summaries.
-
----
-
 ## 3️⃣ Data Transformation
 
 Apply business rules and cleansing:
@@ -136,7 +124,7 @@ sales_forecast_project/
 │
 ├── Extract_and_profiling/
 │   ├── extract_json.py
-│   └── data_profile.py
+│   
 │
 ├── transformation/
 │   └── data_transformation.py
